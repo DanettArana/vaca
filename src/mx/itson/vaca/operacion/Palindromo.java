@@ -7,7 +7,7 @@ package mx.itson.vaca.operacion;
 
 
 /**
- *
+ *Evuala el texto ingresado para 
  * @author arana
  */
 public class Palindromo {
