@@ -7,7 +7,7 @@ package mx.itson.vaca.operacion;
 
 
 /**
- *Evuala el texto ingresado para 
+ *Evuala el texto ingresado para verificar si es un palindromo o no.
  * @author arana
  */
 public class Palindromo {
